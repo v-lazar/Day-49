@@ -1,0 +1,3 @@
+Scope: Save all jobs that meet the criteria
+
+URL_Junior_net_en =  https://www.linkedin.com/jobs/search/?currentJobId=4088290002&geoId=107161656&keywords=junior network engineer&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true
